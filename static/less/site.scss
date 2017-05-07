@@ -1,0 +1,13 @@
+$color: red;
+#res{
+    border: 1px solid $color;
+}
+input{
+    transform: translateX(0px)
+}
+.bg{
+    width: 200px;
+    height: 200px;
+    background-image: url('../img/girl.jpg');
+    background-size: cover;
+}
